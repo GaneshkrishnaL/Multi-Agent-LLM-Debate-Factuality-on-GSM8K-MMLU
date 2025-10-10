@@ -1,4 +1,4 @@
-# Multi-Agent LLM Debate for Benchmark Evaluation
+# Multi-Agent LLM Debate 
 
 This repository contains a Python implementation of a multi-agent debate system designed to evaluate the reasoning and knowledge of Large Language Models (LLMs) on standard benchmarks.
 
